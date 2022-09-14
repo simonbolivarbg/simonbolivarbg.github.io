@@ -34,3 +34,4 @@ https://tempusdominus.github.io/bootstrap-4/
 Demo Images:
 http://unsplash.com
 
+Copyright 2022. All Right Reserved. Design by Manuel Mariscal
